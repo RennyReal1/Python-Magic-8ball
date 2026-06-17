@@ -1,3 +1,7 @@
+# Allow Next.js lib directories inside tbe-os/
+!tbe-os/lib/
+!tbe-os/lib/**
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
